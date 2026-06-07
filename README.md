@@ -78,12 +78,6 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 </p>
 
 ---
